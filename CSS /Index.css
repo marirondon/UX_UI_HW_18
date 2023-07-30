@@ -1,0 +1,57 @@
+section{
+    width: 1512px;
+    height: 2199px;
+    flex-shrink: 0;
+    background: #F6EEE9;
+}
+
+body{
+    background: #F6EEE9;
+}
+
+logo{
+    width: 196px;
+height: 97px;
+flex-shrink: 0;
+}
+
+div{
+    border: 1px solid #735645;
+    
+    
+}
+
+h1{
+    color: #7D5A30;
+font-family: Playfair Display;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 1.08px;
+}
+
+h2{
+    color: #7D5A30;
+font-family: Playfair Display;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 1.08px;
+}
+
+p{
+    color: #7D5A30;
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 1px;
+}
+
+hr{
+    color: #7D5A30;
+    width: 1px;
+}
